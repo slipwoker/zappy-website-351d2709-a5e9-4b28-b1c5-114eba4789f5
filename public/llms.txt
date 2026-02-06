@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# עמית יצחק — Generative Engine Optimization Map
+
+> A שירותי עיצוב ופיתוח דיגיטלי business.
 
 ---
 
@@ -34,7 +36,15 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About עמית יצחק
+עמית יצחק is a business in the שירותי עיצוב ופיתוח דיגיטלי industry.
+
+## Target Audience
+עסקים המחפשים דפי נחיתה להמרות
+
+## Industry
+שירותי עיצוב ופיתוח דיגיטלי
+
 ---
 
 # Additional Resources
