@@ -1,43 +1,53 @@
-# Business — Generative Engine Optimization Map
+# עמית יצחק — Generative Engine Optimization Map
+
+> A שירותי עיצוב ופיתוח דיגיטלי business.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://amit-yitzhak.zappy5.app
 
 ### Services
-https://example.com/services
+https://amit-yitzhak.zappy5.app/services
 
 ### Work
-https://example.com/work
+https://amit-yitzhak.zappy5.app/work
 
 ### Contact
-https://example.com/contact
+https://amit-yitzhak.zappy5.app/contact
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://amit-yitzhak.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://amit-yitzhak.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://amit-yitzhak.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About עמית יצחק
+עמית יצחק is a business in the שירותי עיצוב ופיתוח דיגיטלי industry.
+
+## Target Audience
+עסקים המחפשים דפי נחיתה להמרות
+
+## Industry
+שירותי עיצוב ופיתוח דיגיטלי
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://amit-yitzhak.zappy5.app/sitemap.xml
+- **Robots.txt**: https://amit-yitzhak.zappy5.app/robots.txt
